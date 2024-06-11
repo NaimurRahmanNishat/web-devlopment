@@ -1,0 +1,33 @@
+HTML: HTML stands for HyperText Markup Language.It is used to design the front end portion of web pages using markup language.
+Hypertext defines the link between the web pages and Markup language defines the text document within the tag.
+
+HTML Tags: HTML tags are the building blocks of web pages. 
+<p>, <a>, <div>, <span>, <header>, <footer>, <break>, <image>,  <main>, <nav>, <param>, <script>, <section>, <strong>, <style>,  <video>,
+
+HTML Tables: HTML tables provide a structured way to organize information into rows and columns, making it easy for users to understand and navigate.
+<table>, <tbody>, <td>, <th>, <tr>, <caption>, <thead>, <tfoot>, <col>, <colgroup>
+
+HTML Lists: HTML lists organize information clearly on your website.
+<li>, <ul>, <ol>, <dl>, <dt>, <dd>
+
+HTML Formatting: HTML offers tags and attributes to style your website’s text, images, and more.
+<i>, <small>, <ins>, <sub>, <strong>, <b>, <mark>, <del>, <em>, <sup>
+
+HTML Form: HTML forms let users interact with your website. 
+<form>, <input>, <label>, <button>, <select>, <textarea>, <fieldset>, <option>, <legend>, <datalist>, <output>, <optgroup>.
+
+HTML Elements: An HTML Element is a collection of start and end tags with the content inserted between them. 
+
+HTML Attributes: HTML attributes provide additional information about elements. Attributes define properties and behavior, impacting content display and interaction on web pages.
+
+HTML Block elements, are used to structure the main content of a webpage.
+example: <div>, <p>, <h1> to <h6>, and <ul>, etc.
+
+Inline elements are used within block-level elements to style or format specific parts of the content.
+example: <span>, <a>, <strong>, and <em>.
+
+HTML iframes offer a powerful way to embed external content, such as videos, maps, or other webpages, directly into your own webpage. 
+
+HTML file paths refer to the location of files within a website’s directory structure.
+
+HTML layouts are the backbone of web pages, structuring content for user-friendly navigation.
