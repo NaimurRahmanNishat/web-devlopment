@@ -1,0 +1,26 @@
+CSS: CSS (Cascading Styling Sheet) is the language that defines the presentation of a document written in a markup language like HTML. CSS is the language that transforms a basic HTML structure into a user-friendly and visually beautiful webpage. 
+
+It’s a simple language that controls how HTML elements (like text, images, and buttons) are displayed on a webpage.
+
+CSS has 3 ways to style your HTML:
+(i) Inline.
+(ii) Internal.
+(iii) External.
+
+Inline CSS: Inline CSS is a method that applies CSS styling directly to HTML elements using the ‘style’ attribute.
+Syntax: <tag style = " "></tag>.
+
+Internal CSS: The Internal CSS stylesheet is a set of styles created as part of an HTML document.
+Syntax: <style>
+            /* Internal CSS starts here */
+        </style>
+
+External CSS: External CSS is used to style multiple HTML pages with a single style sheet. External CSS contains a separate CSS file with a .css extension.
+Syntax: Create a css style page and write down.
+
+CSS Syntax: selector { Property: value; }.
+
+CSS Comments: CSS Comments. Comments are essential for documenting code, providing clarity during development and maintenance.
+Syntax: /* content */.
+
+CSS Colors: CSS Colors are an essential part of web design, providing the ability to bring your HTML elements to life. 
